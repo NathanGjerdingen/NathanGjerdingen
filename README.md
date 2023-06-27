@@ -1,5 +1,5 @@
 - Hello there 🤓 my name is Nathan Gjerdingen!
-- I'm interested in all thing JavaScript, with a focus on Front End tech. 
+- I'm interested in all things JavaScript, with a focus on Front End tech
 - I'm currently learning differnet frameworks and means of hosting to become a better Full Stack Developer
 
 <!---
